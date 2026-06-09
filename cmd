@@ -9,4 +9,4 @@ ls -s
 cd README.md 
   cat README.md
   cat cmd
-cat branch
+git branch
