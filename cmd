@@ -10,3 +10,4 @@ cd README.md
   cat README.md
   cat cmd
 git branch
+delete also possible
