@@ -11,3 +11,4 @@ cd README.md
   cat cmd
 git branch
 delete also possible
+exit
